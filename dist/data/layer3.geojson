@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [129.042, 35.104] },
+      "properties": {
+        "nume": "Portul Busan",
+        "capacitate": "Peste 20 milioane TEU / an",
+        "importanta": "Cel mai mare port din Coreea de Sud și un nod logistic de containere vital la nivel mondial.",
+        "imagine": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Busan-port-from-Busan-tower-2.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [126.612, 37.452] },
+      "properties": {
+        "nume": "Portul Incheon",
+        "capacitate": "Aprox. 3 milioane TEU / an",
+        "importanta": "Principalul hub comercial de pe coasta de vest, facilitând conexiuni economice strânse cu Asia de Est.",
+        "imagine": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Incheon-port.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [127.695, 34.912] },
+      "properties": {
+        "nume": "Portul Gwangyang",
+        "capacitate": "Peste 2.5 milioane TEU / an",
+        "importanta": "Un port industrial masiv specializat în gestionarea oțelului, produselor maritime și petrochimice.",
+        "imagine": "https://upload.wikimedia.org/wikipedia/commons/d/da/1190935_Gwangyang_Port_Terminal_in_South_Korea_2014.jpg"
+      }
+    }
+  ]
+}

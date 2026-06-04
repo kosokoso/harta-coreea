@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [126.988, 37.661] },
+      "properties": {
+        "nume": "Parcul Național Bukhansan",
+        "suprafata": "79.9 km²",
+        "specific": "Cunoscut ca 'plămânul Seoulului', faimos pentru cheile sale și templele budiste ascunse.",
+        "imagine": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Bukhansan_National_Park_2006-03-28.JPG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [128.465, 38.119] },
+      "properties": {
+        "nume": "Parcul Național Seoraksan",
+        "suprafata": "398.5 km²",
+        "specific": "Inclus în UNESCO, faimos pentru vărfurile muntoase din granit și traseele spectaculoase pe creastă.",
+        "imagine": "https://upload.wikimedia.org/wikipedia/commons/0/01/Dinosaur_Ridge_of_Seoraksan.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [126.531, 33.361] },
+      "properties": {
+        "nume": "Parcul Național Hallasan",
+        "suprafata": "153.4 km²",
+        "specific": "Adăpostește cel mai înalt vârf din Coreea de Sud (un vulcan adormit) și un ecosistem montan unic pe insula Jeju.",
+        "imagine": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Hallasan_Above.jpg"
+      }
+    }
+  ]
+}

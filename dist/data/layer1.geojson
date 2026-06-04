@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [126.978, 37.566] },
+      "properties": {
+        "nume": "Seoul",
+        "tip": "Capitală",
+        "descriere": "Metropolă globală unde zgârie-norii moderni și tehnologia de vârf se îmbină cu palatele dinastice budiste.",
+        "imagine": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Seoul_%28175734251%29_%28cropped%29.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [129.075, 35.179] },
+      "properties": {
+        "nume": "Busan",
+        "tip": "Port maritim",
+        "descriere": "Oraș de coastă vibrant, faimos pentru plajele Haeundae și Gwangalli, templele pe stânci și cel mai mare port din țară.",
+        "imagine": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Busan_City_Haeundae_Beach_KOGL_%2801%29.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [127.385, 36.35] },
+      "properties": {
+        "nume": "Daejeon",
+        "tip": "Centru științific",
+        "descriere": "Silicon Valley al Coreei, un hub major de cercetare, unde se află faimosul institut KAIST și parcurile tehnologice de elită.",
+        "imagine": "https://upload.wikimedia.org/wikipedia/commons/7/76/Daejeon_southern_cityscape_from_Gyejoksan.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [126.716, 37.456] },
+      "properties": {
+        "nume": "Incheon",
+        "tip": "Oraș port",
+        "descriere": "Poarta ultra-modernă de intrare în Coreea, cunoscută pentru districtul tehnologic Songdo și aeroportul său internațional de top.",
+        "imagine": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Songdo_Central_Park_and_Posco_Tower_Songdo.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8" />
+  <title>Hartă OpenLayers</title>
+  <script type="module" crossorigin src="/assets/index-ClaKZk2F.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-D88SUeWo.css">
+</head>
+<body>
+  <div id="map"></div>
+  <div id="controls">
+    <h3>Alege harta</h3>
+    <label><input type="radio" name="basemap" value="osm" checked> OSM Standard</label>
+    <label><input type="radio" name="basemap" value="carto"> CartoDB Dark</label>
+    
+    <h3>Afișează pe hartă</h3>
+    <label><input type="checkbox" id="layer1" checked> Orașe</label>
+    <label><input type="checkbox" id="layer2" checked> Parcuri Naturale</label>
+    <label><input type="checkbox" id="layer3" checked> Porturi Maritime</label>
+  </div>
+  <div id="popup">
+    <a href="#" id="popup-closer" onclick="document.getElementById('popup').style.display='none'; return false;">✕</a>
+    <div id="popup-content"></div>
+  </div>
+</body>
+</html>
